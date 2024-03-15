@@ -8,3 +8,5 @@ The two versions have different setup and functionality:
 - Contact Haptic: (Old) A haptic module server that takes input from a VRChat contact and forwards it to a specific device running an OSC client that can trigger a vibration.
 
 You may be able to use the OLD Contact Haptic server to control the Haptic Module if you change the parameters they send/receive from each other to the same path, for example "pivibe/vibrate".
+
+Latewarner is just a small thing I forgot was here, it basically just checks the time on certain days and sends a chatbox message to notify everyone of your current sleep schedule predicament. Set "Own Chatbox" to Shown and "Chatbox Position" to Forward so you can see it too.
